@@ -1,7 +1,7 @@
 
     setTimeout(function() {
         window.location.replace("Thankyou.html")
-    }, 50000)
+    }, 40000)
 
      let divForm=document.querySelector("h3");
       divForm.addEventListener("click",function(){
