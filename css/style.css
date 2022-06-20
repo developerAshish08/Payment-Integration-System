@@ -15,7 +15,7 @@
     }
   }
   header {  
-    /* This section calls the slideInFromLeft animation we defined above */
+  
     animation: 1s ease-out 0s 1 slideInFromUp;
   }
   .animate{
@@ -133,9 +133,7 @@ header{
     box-shadow: 0 2rem 5rem 0 yellowgreen;
     transition: 300ms ease;
 }
-/* #donate:focus {
-    outline: none;
-} */
+
 
 @media only screen and (max-width: 600px)  {
     .animate {
